@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello There!<br>let me introduce myself, my name is<br>Muhammad Akyas Mahira Abduh.<br>I am a junior programmer and am currently<br>studying at a Vocational High School taking<br>a Software Engineering skills program.
+Hello There!<br>let me introduce myself, my name is<br>Muhammad Akyas Mahira Abduh.<br>I am a junior programmer and am currently<br>studying at a Vocational High School taking<br>a Software Engineering skills program
 
 
 ## 🌐 Socials:
