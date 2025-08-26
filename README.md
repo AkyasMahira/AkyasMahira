@@ -1,4 +1,4 @@
-# Hello, I'm Muhammad Akyas Mahira Abduh. 👋
+# Hello, I'm Muhammad Akyas Mahira Abduh 👋
 
 🎓 Software Engineering Student | 💻 Junior Full-Stack Developer  
 🔭 Currently exploring Laravel & JavaScript ecosystems  
