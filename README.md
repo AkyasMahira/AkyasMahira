@@ -11,6 +11,3 @@
 ![Git](https://img.shields.io/badge/Git-3b4252?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-3b4252?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-3b4252?style=for-the-badge&logo=notion&logoColor=white)
-
-Be honest, I'm quite dumb in math. I never imagined myself being in the field of programming, but here I am fully focusing on website development.
-Anyway, that's all about me, and thank you for stopping by!
