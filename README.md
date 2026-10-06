@@ -1,13 +1,24 @@
-[![An image of @akyasmahira's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akyasmahira)](https://holopin.io/@akyasmahira)
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/8ec11936-3d98-4818-80e8-203e5d219796"
+    alt="Akyas Mahira"
+    width="735"
+  />
+</p>
 
+---
 
-![PHP](https://img.shields.io/badge/PHP-3b4252?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-3b4252?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-3b4252?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-3b4252?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-3b4252?style=for-the-badge&logo=react&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next.js-3b4252?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Pusher](https://img.shields.io/badge/Pusher-3b4252?style=for-the-badge&logo=pusher&logoColor=white)
-![Git](https://img.shields.io/badge/Git-3b4252?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-3b4252?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-3b4252?style=for-the-badge&logo=notion&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-3b4252?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-3b4252?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-3b4252?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-3b4252?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-3b4252?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-3b4252?style=flat-square&logo=nextdotjs&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-3b4252?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-3b4252?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-3b4252?style=flat-square&logo=notion&logoColor=white" />
+</p>
